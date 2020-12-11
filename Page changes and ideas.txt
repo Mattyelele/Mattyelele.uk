@@ -1,0 +1,15 @@
+Landing page (home):
+add more buttons
+change font for twitter, discord and github
+
+
+About Me:
+little bio
+
+Projects:
+slideshow on each project
+info about each project
+
+Socials:
+Links to twitch, YouTube, Discord server
+stats on each one (follower count, posts, following)
